@@ -1,1 +1,1 @@
-# devops_AC02
+O comando clone, ele traz diretamente da interface web, os arquivos para serem editados através do git bash, usando o comando git clone.
